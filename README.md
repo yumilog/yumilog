@@ -8,10 +8,10 @@
   
 
 ### Hi there 👋
-I am Yumi, a front-end developer and technical program manager.<br/>
-I enjoy taking on new challenges and gaining diverse experiences.<br/>
-These days, I’m working in a security environment and getting interested in XDR and security systems.<br/>
-I also enjoy learning about system structures, engine systems, and data processing.
+I'm Yumi, a software developer and technical program manager.<br/>
+I enjoy understanding how complex systems work and turning technical ideas into practical solutions.<br/>
+Recently, I've been working on security platforms, where I've developed a strong interest in XDR, distributed systems, and large-scale data processing.<br/>
+I'm particularly interested in system architecture, engine design, and performance optimization.
 
 - [Portfolio](https://yumilog.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/yumi-yang-b73221104/)
